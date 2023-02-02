@@ -1,0 +1,84 @@
+<resources>
+    <string name="app_name">Olympia</string>
+    <string name="desafio">¿Aceptas el desafio?</string>
+    <string name="registro">Registrarse</string>
+    <string name="guardar">Guardar decision</string>
+
+    <string name="boton_entrar">Entrar</string>
+    <string name="sin_cuenta">¿No tienes cuenta? \n Registrate</string>
+    <string name="introduce_nombre">Introduce un nombre con el que te sientas identificado</string>
+    <string name="descripcion_aplicacion">Bienvenido a Olympia,\nEn este juego serio tendrás que enfrentarte a diferentes situaciones que pueden aparecer en la organización y desarrollo de grandes eventos deportivos. \n\nCada situacion tendrá un contexto que debe tener en cuenta para tomar las decisiones a los 3 problemas que se le plantearan en cada situacion. Debe tomar la mejor decisión que considere oportuna para cada problema y cada posible decisión consumirá una serie de recursos. \n\nLos recursos disponibles son limitados y hay que emplear cierta precaución al utilizarlos. Al final, el comite Directivo nos otorgará una puntuación en base a las decisiones que haya tomado, el riesgo tomado en los recursos iniciales y al buen uso de los recursos.</string>
+    <string name="empezar_juego">Que empiece el juego</string>
+    <string name="entendido">Entendido</string>
+    <string name="como_jugar">¿Cómo jugar?</string>
+    <string name="aprende_a_jugar">Aprende a jugar</string>
+    <string name="descripcion_video">Has sido seleccionado como el gestor encargado para llevar a cabo el proyecto de realizar las olimpiadas de este año en tu ciudad. \n En primer lugar, por favor, selecciona el nombre de la ciudad en la que quieres realizar el evento y la dificultad. Las dificultades más altas proveen menos recursos, pero incrementan la puntuación final.\nEl juego se dividirá en 3 fases, en cada una de ellas habrá 3 preguntas, tendrás que responder a cada pregunta decidiendo cual es la mejor opción y considerando los recursos que gastarás. Una vez respondidas las tres preguntas podrás pasar a la siguiente fase, entonces, aparecerá una pregunta bonus, esta pregunta tiene que ser respondida en un tiempo límite y según tu respuesta ¡podrás ganar puntuación extra!. \nUna vez respondida pasarás a la siguiente fase, donde volveras a encontrar otras 3 preguntas hasta llegar al final de juego.\n¡Buena suerte!</string>
+    <string name="avanzar_situacion">Avanzar</string>
+    <string name="confirmacion">Confirmar decisiones</string>
+    <string name="escoger_ciudad">Introduce el nombre de la ciudad donde quieres realizar los Juegos Olimpicos</string>
+    <string name="escoger_recursos">¿Que nivel de dificultad quieres?</string>
+
+
+    <string name="dif_dificil">Dificil</string>
+    <string name="dif_medio">Medio</string>
+    <string name="dif_facil">Facil</string>
+    <string name="dif_dificil_descripcion">Tus recursos están muy ajustados, el alto riesgo hace que sea muy fácil entrar en números rojos.</string>
+    <string name="dif_medio_descripcion">Tus recursos son adecuados para tomar buenas decisiones, riesgo medio.</string>
+    <string name="dif_facil_descripcion">Tus recursos son altos, el riesgo es muy bajo y no hay posibilidades de entrar en números rojos.</string>
+
+    <string name="pregunta_bonus">Pregunta Bonus</string>
+
+    <string-array name="dificultades">
+        <item>Facil</item>
+        <item>Medio</item>
+        <item>Dificil</item>
+
+    </string-array>
+
+
+    <string name="presupuesto">Presupuesto</string>
+    <string name="numeroTrabajadores">Numero \n trabajadores</string>
+    <string name="notoriedad">Notoriedad</string>
+    <string name="tiempo">Tiempo</string>
+    <string name="titulo_resultados">Resultados finales</string>
+    <string name="puntuacion">Puntuacion total: %1$d.</string>
+    <string name="medicion_3">Personalidad y Valores: %1$d%%.</string>
+    <string name="medicion_2">Liderazgo: %1$d%%.</string>
+    <string name="medicion_1">Conflicto y negociacion: %1$d%%.</string>
+    <string name="formato_seekbar">Min: %1$d. Elegido: %2$d. Max: %3$d</string>
+    <string name="formato_timer">%1$s:%2$s:%3$s</string>
+    <string name="boton_volver">Volver al menú</string>
+
+    <string name="resumen_decisiones">Resumen de sus decisiones</string>
+    <string name="siguiente_situacion">Siguiente situacion</string>
+
+    <string name="ver_clasificacion">Ver clasificacion</string>
+    <string name="volver">Volver</string>
+
+    <string name="confirmacion_presupuesto">Presupuesto: %1$dK€ \n </string>
+    <string name="confirmacion_notoriedad">Notoriedad: %1$d%% \n </string>
+    <string name="confirmacion_tiempo">Tiempo: %1$d dias \n </string>
+    <string name="confirmacion_trabajadores">Trabajadores: %1$d \n </string>
+
+    <string name="intervalo_medio">Nuestras decisiones no han causado tanto efecto como esperabamos, pero algunos miembros del comité tienen una buena impresión.\nNuestra valoración ha incrementado (+Puntuación).\n\nBalance de nuestros recursos:</string>
+    <string name="intervalo_bajo">Hay descontento entre varios miembros del comité directivo debido a las decisiones tomadas.\nNuestra valoración se ha visto afectada (-Puntuacion).\n\nBalance de nuestros recursos:</string>
+    <string name="intervalo_alto">Los miembros del comité directivo se encuentran contentos con las decisiones tomadas.\nNuestra valoración ha incrementado considerablemente (+++Puntuación).\n\nBalance de nuestros recursos:</string>
+    <string name="balance_final">Balance de recursos final:</string>
+    <string name="clasificacion">Clasificacion</string>
+    <string name="usuarioHint">Usuario</string>
+    <string name="DescriptorImagen">Logo de la aplicación</string>
+    <string name="contrasenaHint">Contraseña</string>
+    <string name="emailHint">Email</string>
+    <string name="ciudadHint">Ciudad</string>
+
+
+    <string name="bienvenida">Bienvenido %1$s</string>
+    <string name="card_notoriedad">%1$d%%</string>
+    <string name="card_presupuesto">%1$dK€</string>
+    <string name="card_trabajadores">%1$d</string>
+    <string name="card_tiempo">%1$d\ndías</string>
+    <string name="bienvenido_a_olympia">Bienvenido a Olympia</string>
+    <string name="logo_de_la_aplicaci_n">Logo de la aplicación</string>
+    <string name="introduce_los_siguientes_datos">Introduce los siguientes datos:</string>
+    <string name="registrarse">Registrarse</string>
+</resources>
